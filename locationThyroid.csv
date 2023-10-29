@@ -1,0 +1,123 @@
+Age,Sex,reportDate,parameterT3,parameterT4,parameterTSH,GroupName,isAbnormalT3,isAbnormalT4,isAbnormalTSH,UOMCode,clientCode,referenceRange,clientName,status,Result,Location
+44,M,30-04-2022,74.34,3.48,25.1,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC001_1,84.6-201.8<br>Note : Change in Method & Reference range,MICRON METROPOLIS RAJE COMPLEX,Approve,Hypothyroidism,Panvel
+37,F,03-05-2022,72.2,4.21,5.87,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0335_1,84.6-201.8<br>Note : Change in Method & Reference range,"DR SANJAY CHAVARKAR, PEN",Approve,Hypothyroidism,Pen
+65,F,06-05-2022,403.1,18.87,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,F0011_3,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE KANKAVALI,Approve,Hyperthyroidism,Kankavali
+28,F,07-05-2022,237,19.49,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,L0019_15,84.6-201.8<br>Note : Change in Method & Reference range,"PERFECT PATH LAB, KARJAT",Approve,Hyperthyroidism,Karjat
+52,F,09-05-2022,326.8,16.35,0.005,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,CUS12490,84.6-201.8<br>Note : Change in Method & Reference range,METROPOLIS HEALTHCARE LIMITED - KHOPOLI PSC,Approve,Hyperthyroidism,Khopoli
+24,M,09-05-2022,650,24,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,L0642_1,84.6-201.8<br>Note : Change in Method & Reference range,"ANIL PATH LAB, KHOPOLI",Approve,Hyperthyroidism,Khopoli
+55,F,10-05-2022,51.25,4.03,43.47,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0047_8,84.6-201.8<br>Note : Change in Method & Reference range,"J.N.P.T. HOSPITAL, URAN",Approve,Hypothyroidism,Uran
+45,F,14-05-2022,63.58,3.25,65.79,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,I0092,84.6-201.8<br>Note : Change in Method & Reference range,"SNEH-DEEP DIAGNOSTIC CENTRE, RATNAGIRI",Approve,Hypothyroidism,Ratnagiri
+35,M,16-05-2022,482.7,22.19,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,M0001_23,84.6-201.8<br>Note : Change in Method & Reference range,MICRON METROPOLIS PANVEL BRANCH,Approve,Hyperthyroidism,Panvel
+40.1,F,06-05-2022,231.9,17.75,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hyperthyroidism,Alibaug
+87,M,07-05-2022,44.36,2.45,159.2,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
+30,F,17-05-2022,19.53,0.49,447.3,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
+40,F,07-02-2022,75.36,5,17.95,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,HV0001_25,84.6-201.8<br>Note : Change in Method & Reference range,HOME VISIT PANVEL,Approve,Hypothyroidism,Panvel
+51,F,08-02-2022,51.37,1.36,27.5,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC001_1,84.6-201.8<br>Note : Change in Method & Reference range,MICRON METROPOLIS RAJE COMPLEX,Approve,Hypothyroidism,Panvel
+36,M,14-02-2022,52.73,1.6,183.5,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC001_1,84.6-201.8<br>Note : Change in Method & Reference range,MICRON METROPOLIS RAJE COMPLEX,Approve,Hypothyroidism,Panvel
+33.7,F,26-02-2022,52.59,1.96,276.5,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,HV0001_25,84.6-201.8<br>Note : Change in Method & Reference range,HOME VISIT PANVEL,Approve,Hypothyroidism,Panvel
+36.2,F,12-03-2022,66.64,2.79,166.15,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,HV0001_25,84.6-201.8<br>Note : Change in Method & Reference range,HOME VISIT PANVEL,Approve,Hypothyroidism,Panvel
+40,M,13-01-2022,284.2,15.81,0.007,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,HV0001_25,84.6-201.8<br>Note : Change in Method & Reference range,HOME VISIT PANVEL,Approve,Hyperthyroidism,Panvel
+66,F,18-01-2022,320.6,18.28,0.005,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,MC001_1,84.6-201.8<br>Note : Change in Method & Reference range,MICRON METROPOLIS RAJE COMPLEX,Approve,Hyperthyroidism,Panvel
+37,F,31-01-2022,83.59,4.68,30,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,F0013,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE NEW PANVEL,Approve,Hypothyroidism,New Panvel
+37,M,05-02-2022,82.31,2.34,278.35,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,F0013,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE NEW PANVEL,Approve,Hypothyroidism,New Panvel
+42,F,07-02-2022,78.11,4.85,22.84,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,F0013,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE NEW PANVEL,Approve,Hypothyroidism,New Panvel
+51,M,19-02-2022,73.9,4.63,23.14,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,F0013,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE NEW PANVEL,Approve,Hypothyroidism,New Panvel
+42,F,10-03-2022,57.54,1.98,372.65,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,F0013,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE NEW PANVEL,Approve,Hypothyroidism,New Panvel
+20.6,F,04-02-2022,54.97,1.54,199,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,M0001_23,84.6-201.8<br>Note : Change in Method & Reference range,MICRON METROPOLIS PANVEL BRANCH,Approve,Hypothyroidism,Panvel
+5,F,04-02-2022,19.53,0.42,Above 500,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0019_15,92.4-247.4<br>Note : Change in Method & Reference range,"PERFECT PATH LAB, KARJAT",Approve,Hypothyroidism,Karjat
+47,M,04-02-2022,81.76,4.67,9.88,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0666_1,84.6-201.8<br>Note : Change in Method & Reference range,DR PALLAV GHARAT,Approve,Hypothyroidism,Uran
+66.5,F,08-02-2022,62.14,3.45,47.83,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,M0001_23,84.6-201.8<br>Note : Change in Method & Reference range,MICRON METROPOLIS PANVEL BRANCH,Approve,Hypothyroidism,Panvel
+45,F,08-02-2022,19.53,0.42,43.15,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0357_2,84.6-201.8<br>Note : Change in Method & Reference range,"NISARG PATHOLOGY LABORATORY, MOHOPADA",Approve,Hypothyroidism,Panvel
+40,F,08-02-2022,311.7,14.33,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,L0335_1,84.6-201.8<br>Note : Change in Method & Reference range,"DR SANJAY CHAVARKAR, PEN",Approve,Hyperthyroidism,Pen
+51,F,08-02-2022,76.03,4.48,38.73,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,M0001_23,84.6-201.8<br>Note : Change in Method & Reference range,MICRON METROPOLIS PANVEL BRANCH,Approve,Hypothyroidism,Panvel
+51,F,09-02-2022,38.81,1.92,164.9,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0632,84.6-201.8<br>Note : Change in Method & Reference range,"DONGRE CLINIC, KHOPOLI",Approve,Hypothyroidism,Khopoli
+46,F,10-02-2022,337.1,16.08,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,L0019_15,84.6-201.8<br>Note : Change in Method & Reference range,"PERFECT PATH LAB, KARJAT",Approve,Hyperthyroidism,Karjat
+37.1,F,11-02-2022,66.18,5.06,7.38,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,M0001_23,84.6-201.8<br>Note : Change in Method & Reference range,MICRON METROPOLIS PANVEL BRANCH,Approve,Hypothyroidism,Panvel
+65,F,12-02-2022,35.25,3.72,12.13,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0745_1,84.6-201.8<br>Note : Change in Method & Reference range,GANDHI HOSPITAL,Approve,Hypothyroidism,Panvel
+50,M,14-02-2022,331.5,14.66,0.01,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,F0001_3,84.6-201.8<br>Note : Change in Method & Reference range,"CENTRE, CHIPLUN",Approve,Hyperthyroidism,Chiplun
+32,F,16-02-2022,54.69,2.03,224.75,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0014_16,84.6-201.8<br>Note : Change in Method & Reference range,"NEREKAR CLINIC, URAN",Approve,Hypothyroidism,Uran
+30,M,16-02-2022,69.77,4.49,174.7,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0014_16,84.6-201.8<br>Note : Change in Method & Reference range,"NEREKAR CLINIC, URAN",Approve,Hypothyroidism,Uran
+34,F,19-02-2022,65.1,4.06,7.8,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0019_15,84.6-201.8<br>Note : Change in Method & Reference range,"PERFECT PATH LAB, KARJAT",Approve,Hypothyroidism,Karjat
+18,F,21-02-2022,85.06,4.01,7.37,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0019_15,91.1-217.4<br>Note : Change in Method & Reference range,"PERFECT PATH LAB, KARJAT",Approve,Hypothyroidism,Karjat
+39,F,21-02-2022,64.09,2.97,63.09,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,OS133_1,84.6-201.8<br>Note : Change in Method & Reference range,"SIDDHAI CLINICAL LAB, RATNAGIRI",Approve,Hypothyroidism,Ratnagiri
+45,F,24-02-2022,75.49,2.8,22.41,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,OS047_2,84.6-201.8<br>Note : Change in Method & Reference range,MR SURENDRA R. SAWANT RATNAGIRI,Approve,Hypothyroidism,Ratnagiri
+50,F,25-02-2022,285.1,14.99,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,OS047_2,84.6-201.8<br>Note : Change in Method & Reference range,MR SURENDRA R. SAWANT RATNAGIRI,Approve,Hyperthyroidism,Ratnagiri
+71.8,M,25-02-2022,56.56,5.04,64.92,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,M0001_23,84.6-201.8<br>Note : Change in Method & Reference range,MICRON METROPOLIS PANVEL BRANCH,Approve,Hypothyroidism,Panvel
+63.4,M,26-02-2022,62.27,4.75,22.19,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,M0001_23,84.6-201.8<br>Note : Change in Method & Reference range,MICRON METROPOLIS PANVEL BRANCH,Approve,Hypothyroidism,Panvel
+27.7,F,28-02-2022,48.24,3.99,89.22,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,M0001_23,84.6-201.8<br>Note : Change in Method & Reference range,MICRON METROPOLIS PANVEL BRANCH,Approve,Hypothyroidism,Panvel
+20,M,02-03-2022,65.71,2.43,4.71,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0335_1,91.1-217.4<br>Note : Change in Method & Reference range,"DR SANJAY CHAVARKAR, PEN",Approve,Hypothyroidism,Pen
+15,F,03-03-2022,66.26,3.54,Above 500,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,OS133_1,91.1-217.4<br>Note : Change in Method & Reference range,"SIDDHAI CLINICAL LAB, RATNAGIRI",Approve,Hypothyroidism,Ratnagiri
+50,F,05-03-2022,650,24.74,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,L0101_3,84.6-201.8<br>Note : Change in Method & Reference range,"NAKHWA PATH LAB, URAN",Approve,Hyperthyroidism,Uran
+22,F,07-03-2022,63.47,2.35,107.5,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0429,84.6-201.8<br>Note : Change in Method & Reference range,"SHINDE PATH LAB, PANVEL",Approve,Hypothyroidism,Panvel
+50,F,07-03-2022,232.2,23.75,0.03,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,OS004_2,84.6-201.8<br>Note : Change in Method & Reference range,"APARNA HOSPITAL, CHIPLUN",Approve,Hyperthyroidism,Chiplun
+28,M,07-03-2022,490.3,20.6,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,L0844_1,84.6-201.8<br>Note : Change in Method & Reference range,SUMIT ANKUSH SAWANT  ( BORLI ),Approve,Hyperthyroidism,Alibaug
+32,M,07-03-2022,570.2,22.38,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,L0019_15,84.6-201.8<br>Note : Change in Method & Reference range,"PERFECT PATH LAB, KARJAT",Approve,Hyperthyroidism,Karjat
+36,F,09-03-2022,316.5,14.78,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,I0060,84.6-201.8<br>Note : Change in Method & Reference range,"VIKAS LABORATORY, GOREGAON",Approve,Hyperthyroidism,Goregaon
+26,F,12-03-2022,41.67,2.06,152.6,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,I0060,84.6-201.8<br>Note : Change in Method & Reference range,"VIKAS LABORATORY, GOREGAON",Approve,Hypothyroidism,Goregaon
+40,F,17-03-2022,19.53,0.73,296.65,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,OS047_2,84.6-201.8<br>Note : Change in Method & Reference range,MR SURENDRA R. SAWANT RATNAGIRI,Approve,Hypothyroidism,Ratnagiri
+29,F,23-03-2022,649.2,22.37,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,L0672,84.6-201.8<br>Note : Change in Method & Reference range,BIRMOLE HEALTHCARE PVT LTD,Approve,Hyperthyroidism,Panvel
+59,F,23-03-2022,35.59,0.89,73.68,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0780,84.6-201.8<br>Note : Change in Method & Reference range,AJIT SATISH PATIL ( RATNAGIRI ),Approve,Hypothyroidism,Ratnagiri
+24,F,24-03-2022,650,24.3,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,F0001_3,84.6-201.8<br>Note : Change in Method & Reference range,"CENTRE, CHIPLUN",Approve,Hyperthyroidism,Chiplun
+27,F,24-03-2022,19.53,0.42,Above 500,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0019_15,84.6-201.8<br>Note : Change in Method & Reference range,"PERFECT PATH LAB, KARJAT",Approve,Hypothyroidism,Karjat
+48,F,28-03-2022,63.32,2.74,87.15,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,I0092,84.6-201.8<br>Note : Change in Method & Reference range,"SNEH-DEEP DIAGNOSTIC CENTRE, RATNAGIRI",Approve,Hypothyroidism,Ratnagiri
+41,M,29-03-2022,318.9,16.49,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,L0014_16,84.6-201.8<br>Note : Change in Method & Reference range,"NEREKAR CLINIC, URAN",Approve,Hyperthyroidism,Uran
+49,F,30-03-2022,359.1,18.93,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,OS047_2,84.6-201.8<br>Note : Change in Method & Reference range,MR SURENDRA R. SAWANT RATNAGIRI,Approve,Hyperthyroidism,Ratnagiri
+25,F,31-03-2022,240.8,15.13,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,OS133_1,84.6-201.8<br>Note : Change in Method & Reference range,"SIDDHAI CLINICAL LAB, RATNAGIRI",Approve,Hyperthyroidism,Ratnagiri
+45,F,02-01-2022,82.08,3.15,24.24,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,OS047_2,84.6-201.8<br>Note : Change in Method & Reference range,MR SURENDRA R. SAWANT RATNAGIRI,Approve,Hypothyroidism,Ratnagiri
+25,F,04-01-2022,72.38,5,8.84,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,M0001_23,84.6-201.8<br>Note : Change in Method & Reference range,MICRON METROPOLIS PANVEL BRANCH,Approve,Hypothyroidism,Panvel
+40,F,11-01-2022,78.62,3.68,23.19,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0021_20,84.6-201.8<br>Note : Change in Method & Reference range,"PRATHAMESH LAB, URAN",Approve,Hypothyroidism,Uran
+40,F,12-01-2022,650,23.38,0.005,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,L0335_1,84.6-201.8<br>Note : Change in Method & Reference range,"DR SANJAY CHAVARKAR, PEN",Approve,Hyperthyroidism,Pen
+65,M,13-01-2022,19.53,0.42,127.05,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,OS133_1,84.6-201.8<br>Note : Change in Method & Reference range,"SIDDHAI CLINICAL LAB, RATNAGIRI",Approve,Hypothyroidism,Ratnagiri
+60,F,15-01-2022,52.31,3.42,16.45,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,OS133_1,84.6-201.8<br>Note : Change in Method & Reference range,"SIDDHAI CLINICAL LAB, RATNAGIRI",Approve,Hypothyroidism,Ratnagiri
+28,F,21-01-2022,46.12,0.9,171,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0632,84.6-201.8<br>Note : Change in Method & Reference range,"DONGRE CLINIC, KHOPOLI",Approve,Hypothyroidism,Khopoli
+40,F,21-01-2022,416.9,17.97,0.006,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,L0335_1,84.6-201.8<br>Note : Change in Method & Reference range,"DR SANJAY CHAVARKAR, PEN",Approve,Hyperthyroidism,Pen
+52,M,31-01-2022,68.25,2.43,193.98,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,CUS06295,84.6-201.8<br>Note : Change in Method & Reference range,SHREE CLINICAL LABOROTORY,Approve,Hypothyroidism,Pune
+30,F,03-02-2022,541.7,24.09,0.007,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,L0429,84.6-201.8<br>Note : Change in Method & Reference range,"SHINDE PATH LAB, PANVEL",Approve,Hyperthyroidism,Panvel
+32.8,F,04-01-2022,69.57,4.26,152.05,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,M0001_23,84.6-201.8<br>Note : Change in Method & Reference range,MICRON METROPOLIS PANVEL BRANCH,Approve,Hypothyroidism,Panvel
+32,F,13-01-2022,52.3,3.34,8,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0844_1,84.6-201.8<br>Note : Change in Method & Reference range,SUMIT ANKUSH SAWANT  ( BORLI ),Approve,Hypothyroidism,Alibaug
+33.7,F,23-04-2022,71.55,2.9,96.98,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,HV0001_25,84.6-201.8<br>Note : Change in Method & Reference range,HOME VISIT PANVEL,Approve,Hypothyroidism,Panvel
+28,F,26-04-2022,72.89,3.89,93.28,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,F0013,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE NEW PANVEL,Approve,Hypothyroidism,New Panvel
+46,F,07-04-2022,74.88,2.67,148.8,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,OS133_1,84.6-201.8<br>Note : Change in Method & Reference range,"SIDDHAI CLINICAL LAB, RATNAGIRI",Approve,Hypothyroidism,Ratnagiri
+65,F,07-04-2022,223.6,14.89,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,L0019_15,84.6-201.8<br>Note : Change in Method & Reference range,"PERFECT PATH LAB, KARJAT",Approve,Hyperthyroidism,Karjat
+44,M,08-04-2022,59.87,2.43,44.27,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,OS133_1,84.6-201.8<br>Note : Change in Method & Reference range,"SIDDHAI CLINICAL LAB, RATNAGIRI",Approve,Hypothyroidism,Ratnagiri
+65,F,08-04-2022,231.8,18.06,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,L0047_8,84.6-201.8<br>Note : Change in Method & Reference range,"J.N.P.T. HOSPITAL, URAN",Approve,Hyperthyroidism,Uran
+45,F,08-04-2022,80.71,4.16,36.35,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0844_1,84.6-201.8<br>Note : Change in Method & Reference range,SUMIT ANKUSH SAWANT  ( BORLI ),Approve,Hypothyroidism,Alibaug
+38.8,M,09-04-2022,27.39,1,322.4,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,M0001_23,84.6-201.8<br>Note : Change in Method & Reference range,MICRON METROPOLIS PANVEL BRANCH,Approve,Hypothyroidism,Panvel
+23,F,14-04-2022,227.5,19.25,0.21,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,OS073,84.6-201.8<br>Note : Change in Method & Reference range,DAKSHATA CLINICAL LABORATORY,Approve,Hyperthyroidism,Pune
+44,F,15-04-2022,359.9,20.08,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,M0001_23,84.6-201.8<br>Note : Change in Method & Reference range,MICRON METROPOLIS PANVEL BRANCH,Approve,Hyperthyroidism,Panvel
+37,M,16-04-2022,650,24.54,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,OS047_2,84.6-201.8<br>Note : Change in Method & Reference range,MR SURENDRA R. SAWANT RATNAGIRI,Approve,Hyperthyroidism,Ratnagiri
+42,F,19-04-2022,19.53,0.55,94.32,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0429,84.6-201.8<br>Note : Change in Method & Reference range,"SHINDE PATH LAB, PANVEL",Approve,Hypothyroidism,Panvel
+60,M,19-04-2022,52.13,4.72,6.5,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0047_8,84.6-201.8<br>Note : Change in Method & Reference range,"J.N.P.T. HOSPITAL, URAN",Approve,Hypothyroidism,Uran
+32,F,20-04-2022,245,15.9,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,OS133_1,84.6-201.8<br>Note : Change in Method & Reference range,"SIDDHAI CLINICAL LAB, RATNAGIRI",Approve,Hyperthyroidism,Ratnagiri
+28,M,20-04-2022,75.75,2.14,49.55,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,OS133_1,84.6-201.8<br>Note : Change in Method & Reference range,"SIDDHAI CLINICAL LAB, RATNAGIRI",Approve,Hypothyroidism,Ratnagiri
+50,F,20-04-2022,65.54,4.78,21.5,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,F0001_3,84.6-201.8<br>Note : Change in Method & Reference range,"CENTRE, CHIPLUN",Approve,Hypothyroidism,Chiplun
+40,M,20-04-2022,299.8,23.53,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,L0428_1,84.6-201.8<br>Note : Change in Method & Reference range,"SAKSHAM PATH LAB, CHOWK",Approve,Hyperthyroidism,Panvel
+23,F,26-04-2022,554.1,22.32,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,L0487_2,84.6-201.8<br>Note : Change in Method & Reference range,"UNNATI HOSPITAL, PANVEL",Approve,Hyperthyroidism,Panvel
+48,F,26-04-2022,78.97,2.69,66.47,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,L0047_8,84.6-201.8<br>Note : Change in Method & Reference range,"J.N.P.T. HOSPITAL, URAN",Approve,Hypothyroidism,Uran
+38,F,28-04-2022,73.71,2.54,180.15,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,OS047_2,84.6-201.8<br>Note : Change in Method & Reference range,MR SURENDRA R. SAWANT RATNAGIRI,Approve,Hypothyroidism,Ratnagiri
+49,F,30-04-2022,73.69,4.44,19.17,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,F0001_3,84.6-201.8<br>Note : Change in Method & Reference range,"CENTRE, CHIPLUN",Approve,Hypothyroidism,Alibaug
+54,F,10-02-2022,39.62,2.72,390,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
+24,F,10-02-2022,66.76,3.1,8.76,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
+58,M,16-02-2022,78.63,4.3,15.38,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
+42,F,26-02-2022,37.62,1.93,259.6,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
+45,F,28-02-2022,73.72,4.01,10.98,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
+9,M,01-03-2022,20.59,0.523,Above 500,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,93.1-231.1<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
+85,M,03-03-2022,48.34,2.37,150.03,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
+47,M,03-03-2022,216.8,18.01,0.005,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hyperthyroidism,Alibaug
+45,M,03-03-2022,73.98,4.86,7.69,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
+29.6,F,09-03-2022,82.37,4.18,30.75,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
+40.1,F,15-03-2022,275.5,18.67,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hyperthyroidism,Alibaug
+45,F,19-03-2022,72.99,3.94,5.8,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
+54,M,22-03-2022,209.4,18.95,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hyperthyroidism,Alibaug
+41.3,F,08-01-2022,30.62,1.04,352.1,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
+42,M,08-01-2022,19.53,0.42,249.5,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
+74,F,24-01-2022,39.22,1.39,93.82,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
+40.1,F,04-02-2022,276.6,15.92,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hyperthyroidism,Alibaug
+34,F,08-02-2022,354.3,16.19,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hyperthyroidism,Alibaug
+40,F,14-02-2022,64.09,1.52,95.11,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
+45,F,14-03-2022,19.53,0.42,226.35,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
+35,F,11-04-2022,264.5,16.01,0.05,Thyroid panel-1 (T3/T4/TSH),A,A,L,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hyperthyroidism,Alibaug
+23,F,15-04-2022,57.3,4.43,98.21,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
+48,M,20-04-2022,19.53,0.79,Above 500,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
+25,F,25-04-2022,65.96,3.57,28.96,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
+28,M,09-04-2022,19.53,0.42,250.9,Thyroid panel-1 (T3/T4/TSH),L,L,A,ng/dL,MC0010,84.6-201.8<br>Note : Change in Method & Reference range,CENTRE ALIBAUG,Approve,Hypothyroidism,Alibaug
