@@ -1,0 +1,2 @@
+# Detection of various types of thyroid-related disease using Machine Learning
+ Thyroid complaint is a broad term for a medical condition in which one’s thyroid fails to produce acceptable hormones. Thyroid diseases can be classified as Hyperthyroidism, Hypothyroidism, Primary Hyperthyroidism Primary Hypothyroidism, Pituitary Gland Abnormal, and Early Hyperthyroidism out of which Hypothyroidism is the most common.
