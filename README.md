@@ -1,8 +1,6 @@
 
 # 🏥Detection of various types of thyroid-related disease using Machine Learning
 
-<img src="https://github.com/tarundirector/HR-Analytics-using-PowerBI/assets/85684655/134bf323-38e7-4b43-bdf8-bc94da2bd1ac" width="150">
-
 Thyroid disorders encompass various medical conditions where the thyroid gland fails to produce hormones adequately. These conditions fall into categories like Hyperthyroidism, Hypothyroidism, Primary Hyperthyroidism, Primary Hypothyroidism, Pituitary Gland Abnormalities, and Early Hyperthyroidism, with Hypothyroidism being the most prevalent. Detecting thyroid diseases typically involves complex blood tests, which can be challenging to interpret due to the large volume of data involved. An alternative approach is to predict thyroid diseases by assessing the levels of T3, T4, and TSH in the body. To achieve this, the study compares seven machine learning algorithms, including Logistic Regression, Support Vector Classifier (SVC), Random Forest Classifier, KNeighborsClassifier, Gaussian Naive Bayes (GaussianNB), XGBoost, and Artificial Neural Networks (ANN). Additionally, techniques like Linear Discriminant Analysis (LDA) and Principal Component Analysis (PCA) are utilized to enhance prediction accuracy.
 
 
