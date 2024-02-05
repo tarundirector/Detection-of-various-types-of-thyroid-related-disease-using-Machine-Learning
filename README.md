@@ -62,6 +62,7 @@ In the training phase, the preprocessed data were divided into training data (75
 
 These metrics were essential in evaluating the performance of each model during the training phase.
 
+<img src="https://github.com/tarundirector/HR-Analytics-using-PowerBI/assets/85684655/134bf323-38e7-4b43-bdf8-bc94da2bd1ac" width="100" height="100">
 
 ## Conclusion
 
