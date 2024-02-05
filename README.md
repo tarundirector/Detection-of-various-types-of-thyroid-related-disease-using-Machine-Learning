@@ -62,8 +62,6 @@ In the training phase, the preprocessed data were divided into training data (75
 
 These metrics were essential in evaluating the performance of each model during the training phase.
 
-<img src="https://github.com/tarundirector/HR-Analytics-using-PowerBI/assets/85684655/134bf323-38e7-4b43-bdf8-bc94da2bd1ac" width="100" height="100">
-
 ## Conclusion
 
 In this study, thyroid data from a local pathology lab were analyzed using various classification algorithms to identify different thyroid defect classes based on thyroid hormone parameters (T3, T4, TSH). Notably, XG Boost, Random Forest Classifier, and ANN demonstrated superior performance compared to other models. This is primarily attributed to the robustness of these algorithms against data skewness. Furthermore, the use of oversampling techniques significantly improved accuracy.
